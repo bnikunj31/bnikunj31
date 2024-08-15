@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nikunj
-- 👀 I’m interested in Coding with HTML, CSS, JS , BOOTSTRAP, SQL, C ,C++
-- 🌱 I’m currently learning PHP.
+- 👀 I’m interested in Coding with HTML, CSS, JavaScript , BOOTSTRAP, SQL, C ,C++, Node JS, React JS, PHP
+- 🌱 I’m currently learning Node Js.
 - 💞️ I’m looking to collaborate on any projects with a team.
 - 📫 How to reach me:- nikunj.banssal@gmail.com
 
